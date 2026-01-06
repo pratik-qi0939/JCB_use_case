@@ -1,0 +1,57 @@
+{
+  "invoice_number": "004",
+  "invoice_date": "2024-01-15",
+  "vendor_name": "Bharat Associates",
+  "vendor_address": "Shop No. 30A, Ground Floor, Central Market Extn., Rampuri. Ghaziabad (UP) 201011",
+  "vendor_phone": "9873018181",
+  "receiver_name": "Edrefter Legal solutions Pr..HH",
+  "receiver_address": "6thfloor, office No. 0603 corporate Park Tower A, See-142 Noide, G.B.N(UP)",
+  "receiver_gst_number": "O9AAFCE3342MIZP",
+  "tax_payer_id": "09GBVPS8212J1ZP",
+  "vendor_gst_number": "09GBVPS8212J1ZP",
+  "subtotal": "6915/200",
+  "tax": "625=00",
+  "total": "32345300",
+  "total_amount_after_tax": "32345300",
+  "bank_details": {
+    "bank_name": "PUNJAB & SIND BANK",
+    "account_number": "09061100000527",
+    "branch": "CHANDER NAGAR, GZB.",
+    "ifs_code": "PSIB0000906"
+  },
+  "line_items": [
+    {
+      "item": "STAMP PAPER VALUE",
+      "price": "21,980/-",
+      "expense_row": "1. STAMP PAPER VALUE 21,980/-"
+    },
+    {
+      "item": "Notery charges",
+      "price": "2180/000",
+      "expense_row": "2. Notery charges 2180/000"
+    },
+    {
+      "item": "CHARGES\nSERVICE",
+      "unit_price": "6935/=",
+      "price": "6935/200",
+      "expense_row": "9982 6935/= 6935/200\nCHARGES\n3. SERVICE"
+    }
+  ],
+  "other_details": {
+    "other": "Yes / No",
+    "value": "U.P",
+    "percentage": "9%",
+    "bank_details": {
+      "bank_name": "PUNJAB & SIND BANK",
+      "account_number": "09061100000527",
+      "branch": "CHANDER NAGAR, GZB.",
+      "ifs_code": "PSIB0000906"
+    },
+    "terms_and_conditions": [
+      "1 interest a 24% will be charged on invoice not paid on presentation",
+      "Our risk & responsibility casses as soon as the goods leave our premises",
+      "Al disputes are Subject to Ghaziabad Jurisdiction only.",
+      "Goods once said will not be taken back"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "seller": {
+    "name": "Perfect Fire Protection Services",
+    "address": "Regd. 2, Manns Appt., Nirmal Colony, Nashik 422013",
+    "gstin": "Q",
+    "phone_numbers": null
+  },
+  "buyer": {
+    "name": null,
+    "address": null,
+    "gstin": null
+  },
+  "items": [],
+  "amount": {
+    "assessable_value": null,
+    "sgst": null,
+    "cgst": null,
+    "igst": null,
+    "total_gst_amount": null,
+    "total_amount_after_gst": null,
+    "amount_in_words": null
+  },
+  "bank_details": {
+    "bank_name": "Bank of Baroda",
+    "account_no": "41360200000268",
+    "ifsc_code": "BARBOPIMPAL",
+    "branch": "Bahula"
+  }
+}

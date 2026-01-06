@@ -1,0 +1,20 @@
+{
+  "seller": {
+    "name": "Kar Accessories Pvt. Ltd.",
+    "address": "B-38, Lajpat Nagar-2, New Delhi- 24",
+    "tin_no": null
+  },
+  "buyer": {
+    "name": null,
+    "address": null
+  },
+  "items": [],
+  "amount": {
+    "total_before_gst": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "total_amount_after_gst": null,
+    "amount_in_words": null
+  }
+}

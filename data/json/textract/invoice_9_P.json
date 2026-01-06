@@ -1,0 +1,76 @@
+{
+  "invoice": {
+    "summary": {
+      "invoice_receipt_date": "23-Jul-2025",
+      "invoice_receipt_id": "GST-3425-26",
+      "tax_payer_id": [
+        "26CORPP3939N1",
+        "32AABBA7890B1ZB"
+      ],
+      "vendor_pan_number": "26CORPP3939N1",
+      "receiver_gst_number": "32AABBA7890B1ZB",
+      "receiver_address": {
+        "address_line1": "Sumel Business Park 7, Kochi, Kerala",
+        "zip_code": "380023"
+      },
+      "receiver_name": "Shiv Engineering",
+      "receiver_phone": "9878789878",
+      "subtotal": 3805.0,
+      "tax": 684.9,
+      "total": 4489.9,
+      "total_in_words": "FOUR THOUSAND FOUR HUNDRED AND NINETY RUPEES ONLY",
+      "total_after_tax": 4490.0
+    },
+    "vendor": {
+      "address": {
+        "address_line1": "Plot No A 64, Road No 21, Waghle Indl Estate, Mumbai, Maharashtra 400604"
+      },
+      "name": [
+        "Gujarat Freight Tools",
+        "GUJARAT FREIGHT TOOLS",
+        "LOGOTEXT"
+      ],
+      "phone": "02225820309",
+      "url": "www.logobuld.com"
+    },
+    "other": {
+      "info": "info@gft.com",
+      "gst_in": "32AABBA7890B1ZB",
+      "place_of_supply": "Kerala (32)",
+      "supply": "Supply",
+      "transport": "Silver Roadlines",
+      "transport_id": "24ABSFS0321B2ZL",
+      "bank_details": {
+        "name": "ICICI",
+        "branch": "Surate",
+        "account_number": "2715500356",
+        "ifsc": "ICIC045F",
+        "upi_id": "ifox@icici"
+      },
+      "terms_and_conditions": "This invoice is a no computer signature required.",
+      "subject_to": "Maharashtra Junction.",
+      "responsibility_ceases": "Our Responsibility Ceases as soon as goods leaves our Premises.",
+      "goods_once_sold": "Goods once sold will not taken back.",
+      "delivery_ex_premises": "Delivery Ex-Premises."
+    },
+    "line_items": [
+      {
+        "item": "Bosch All-in-One Metal Hand Tool Kit",
+        "product_code": "8302",
+        "quantity": "1 NOS",
+        "unit_price": 2535.0,
+        "price": 2991.3,
+        "expense_row": "1 Bosch All-in-One Metal Hand Tool Kit 8302 1 NOS 2535.00 2535.00 18.00 456.30 2991.30"
+      },
+      {
+        "item": "Taparia Universal Tool Kit",
+        "product_code": "8302",
+        "quantity": "1 NOS",
+        "unit_price": 1270.0,
+        "price": 1498.6,
+        "expense_row": "2 Taparia Universal Tool Kit 8302 1 NOS 1270.00 1270.00 18.00 228.60 1498.60"
+      }
+    ]
+  },
+  "confidence_score": 96.44
+}

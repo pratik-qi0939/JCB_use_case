@@ -1,0 +1,29 @@
+{
+  "seller": {
+    "name": "She Royal Sports",
+    "address": "No. 2, Gym Road, Meeruty : Nagar, Hapur (U py)",
+    "gstin": "OSCCCPAG758B12U",
+    "phone_numbers": null
+  },
+  "buyer": {
+    "name": null,
+    "address": null,
+    "gstin": null,
+    "state": null,
+    "state_code": null
+  },
+  "items": [],
+  "amount": {
+    "total_before_gst": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "total_amount_after_gst": null,
+    "amount_in_words": null
+  },
+  "bank_details": {
+    "bank_name": "AUS. BANK",
+    "account_no": null,
+    "ifsc_code": "UTIBO003453"
+  }
+}

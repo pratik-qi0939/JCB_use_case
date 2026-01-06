@@ -1,0 +1,53 @@
+{
+  "seller": {
+    "name": "The Royal Sports Traders",
+    "address": "Tawar Wali Gali No. 2, Momin Nagar, Near Humayu Nagar, Hapur Road, Meerut (U.P.)",
+    "gstin": "09CCCPA6758B1ZU",
+    "phone_numbers": [
+      "7017655699",
+      "8192819292"
+    ]
+  },
+
+  "buyer": {
+    "name": "Zest Fitness Studio",
+    "address": "8/8, 2nd, 3rd and 7th, Mansi Road, Bengaluru, Karnataka, 560102",
+    "gstin": "29AAAFZ1207BLZJ",
+    "state": "Karnataka",
+    "state_code": "29"
+  },
+
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "Dumbbell",
+      "hsn_code": "9506",
+      "quantity": 525,
+      "rate": 45,
+      "amount": 23625
+    },
+    {
+      "sr_no": 2,
+      "description": "Bumper Plate",
+      "hsn_code": "9506",
+      "quantity": 200,
+      "rate": 57,
+      "amount": 11400
+    }
+  ],
+
+  "amount": {
+    "total_before_gst": 35025,
+    "cgst": null,
+    "sgst": null,
+    "igst": 6304.5,
+    "total_amount_after_gst": 41330,
+    "amount_in_words": "Forty one thousand three hundred thirty only"
+  },
+
+  "bank_details": {
+    "bank_name": "AXIS BANK",
+    "account_no": "909020053260395",
+    "ifsc_code": "UTIB0003453"
+  }
+}

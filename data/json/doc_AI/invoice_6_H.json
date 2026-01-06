@@ -1,0 +1,19 @@
+{
+  "invoice_details": {
+    "invoice_type": "CASH BILL",
+    "vendor_name": "METRO HARDWARE & PLYWOOD",
+    "vendor_address": "No. 781, 782, Mettupalayam Road, Near X Cut Signal, Coimbatore - 641 002.",
+    "vendor_gstin": "—4",
+    "invoice_number": "493",
+    "invoice_date": "10-®",
+    "line_items": null,
+    "cgst_applied": "adascst@ %",
+    "sgst_applied": "aAdacestaG [-_|",
+    "total_amount": "-"
+  },
+  "summary": {
+    "invoice_summary_text": "This invoice is from METRO HARDWARE & PLYWOOD, invoice number 493, dated 10-®. A GSTIN is provided as '—4'. Tax details for CGST ('adascst@ %') and SGST ('aAdacestaG [-_|') are present but contain non-numeric values. The total amount is specified as '-'. Line item details could not be reliably extracted due to unclear formatting.",
+    "approval_status": "Rejected",
+    "reasoning": "The invoice is rejected because the provided GSTIN ('—4') is not in a valid format. Additionally, the applied GST amounts for CGST and SGST are present but are non-numeric and uninterpretable, making it impossible to verify tax calculations. The total amount is also not a valid numeric value."
+  }
+}

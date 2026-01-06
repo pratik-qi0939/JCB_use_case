@@ -1,0 +1,63 @@
+{
+  "seller": {
+    "name": "Gujarat Freight Tools",
+    "address": "Plot No A 64, Road No 21, Indl Waghle Estate, Mumbai, Maharashtra - 400604",
+    "pan": "26CORPP3939N1"
+  },
+  "buyer": {
+    "name": "M/S Shiv Engineering",
+    "address": "Sumel Business Park 7, Kochi, Kerala - 380023",
+    "phone": "9878789878",
+    "gstin": null,
+    "place_of_supply": "Kerala (32)"
+  },
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "Bosch All-in-One Metal Hand Tool Kit",
+      "hsn_code": "8302",
+      "quantity": 2535.0,
+      "unit": null,
+      "rate": null,
+      "taxable_value": 2535.0,
+      "igst_percent": 18.0,
+      "igst_amount": 456.3,
+      "amount": null
+    },
+    {
+      "sr_no": 2,
+      "description": "Taparia Universal Tool Kit",
+      "hsn_code": "8302",
+      "quantity": 1270.0,
+      "unit": null,
+      "rate": null,
+      "taxable_value": 1270.0,
+      "igst_percent": 18.0,
+      "igst_amount": 228.6,
+      "amount": null
+    }
+  ],
+  "amount": {
+    "total_before_gst": 3805.0,
+    "igst": null,
+    "total_tax": null,
+    "total_amount_after_gst": 4490.0,
+    "amount_in_words": null
+  },
+  "bank_details": {
+    "bank_name": "IcIcl",
+    "branch": "Surate",
+    "account_no": "2715500356",
+    "ifsc_code": "ICICO45F",
+    "upi_id": "ifox@icici"
+  },
+  "invoice_details": {
+    "invoice_no": "GST-3425-26",
+    "invoice_date": "23-Jul-2025",
+    "challan_no": "33",
+    "challan_date": "23-Jul-2025",
+    "eway_bill_no": "78456378",
+    "transport": "Silver Roadlines",
+    "transport_id": "24ABSFS0321B2ZL"
+  }
+}

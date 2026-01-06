@@ -1,0 +1,40 @@
+{
+  "seller": {
+    "name": "Elegant Kar Accessories Pvt. Ltd.",
+    "address": "B-38, Lajpat Nagar-II, New Delhi",
+    "tin_no": "07820208862"
+  },
+
+  "buyer": {
+    "name": "Mr. Aditya Rajiv",
+    "address": "A-104, Gateway Apartments"
+  },
+
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "Car C.P.U. (Component) kit (Infinity) Model No. 6010 CS",
+      "quantity": 1,
+      "unit": "pair",
+      "rate": 9500,
+      "amount": 9500
+    },
+    {
+      "sr_no": 2,
+      "description": "Wiring kit (JBL) (Car) for Amp & woofer",
+      "quantity": 1,
+      "unit": "set",
+      "rate": 3500,
+      "amount": 3500
+    }
+  ],
+
+  "amount": {
+    "total_before_gst": 13000,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "total_amount_after_gst": 13000,
+    "amount_in_words": "Thirteen thousand only"
+  }
+}

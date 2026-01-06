@@ -1,0 +1,64 @@
+{
+  "invoice_details": {
+    "invoice_number": "GST-3425-26",
+    "invoice_date": "23-Jul-2025",
+    "challan_number": "33",
+    "challan_date": "23-Jul-2025",
+    "e_way_bill_number": "78456378"
+  },
+  "seller_information": {
+    "seller_name": "Gujarat Freight Tools",
+    "seller_address": "Plot No A 64, Road No 21, Waghle Estate, Mumbai, Maharashtra - 400604",
+    "seller_phone": "02225820309",
+    "seller_website": "wwwlogobuld.com",
+    "seller_email": "info@gftcom",
+    "seller_pan": "26CORPP3939N1",
+    "seller_gstin": null
+  },
+  "buyer_information": {
+    "buyer_name": "M/S Shiv Engineering",
+    "buyer_address": "Sumel Business Park 7, Kochi, Kerala - 380023",
+    "buyer_phone": "9878789878",
+    "buyer_gstin": null,
+    "place_of_supply": "Kerala (32 )"
+  },
+  "transport_details": {
+    "transport_name": "Silver Roadlines",
+    "transport_id": "24ABSFS0321B2ZL"
+  },
+  "bank_details": {
+    "bank_name": "IcIcl",
+    "bank_branch": "Surate oe",
+    "account_number": "2715500356",
+    "ifsc_code": "ICICO45F",
+    "upi_id": "ifox@icici"
+  },
+  "line_items": [
+    {
+      "product_service_name": "Bosch All-in-One Metal Hand Tool Kit",
+      "hsn_sac": "8302",
+      "quantity": 2535.0,
+      "taxable_value_per_item": 2535.0,
+      "gst_rate": 18.0,
+      "gst_amount": 456.3
+    },
+    {
+      "product_service_name": "Taparia Universal Tool Kit",
+      "hsn_sac": "8302",
+      "quantity": 1270.0,
+      "taxable_value_per_item": 1270.0,
+      "gst_rate": 18.0,
+      "gst_amount": 228.6
+    }
+  ],
+  "totals": {
+    "total_taxable_amount": 3805.0,
+    "total_amount_after_tax_in_words": "FOUR THOUSAND FOUR HUNDRED AND NINETY RUPEES ONLY",
+    "total_amount_after_tax": null
+  },
+  "summary": {
+    "invoice_summary": "Invoice GST-3425-26 dated 23-Jul-2025 from Gujarat Freight Tools (PAN: 26CORPP3939N1) to M/S Shiv Engineering (Phone: 9878789878, Place of Supply: Kerala). The invoice includes items like 'Bosch All-in-One Metal Hand Tool Kit' and 'Taparia Universal Tool Kit' with a total taxable amount of 3805.00. GST is applied at 18.00% on both items. The total amount after tax is mentioned as FOUR THOUSAND FOUR HUNDRED AND NINETY RUPEES ONLY. Bank details for IcIcl bank are provided.",
+    "approval_status": "Rejected",
+    "reasoning": "The invoice is rejected because the GSTIN number for the recipient (M/S Shiv Engineering) is missing. Additionally, the seller's GSTIN is also not explicitly available in the invoice details."
+  }
+}

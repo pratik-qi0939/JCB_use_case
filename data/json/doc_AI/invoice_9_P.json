@@ -1,0 +1,75 @@
+{
+  "invoice_details": {
+    "invoice_number": "GST-3425-26",
+    "invoice_date": "23-Jul-2025",
+    "challan_number": "33",
+    "challan_date": "23-Jul-2025",
+    "eway_bill_number": "78456378",
+    "place_of_supply": "Kerala (32)"
+  },
+  "seller_details": {
+    "name": "Gujarat Freight Tools",
+    "address": "Plot No A 64, Road No 21, Indl Waghle Estate, Mumbai, Maharashtra - 400604",
+    "phone": "02225820309",
+    "websites": [
+      "wwwlogobuld.com",
+      "info@gftcom"
+    ],
+    "pan": "26CORPP3939N1",
+    "gstin": null
+  },
+  "buyer_details": {
+    "name": "M/S Shiv Engineering",
+    "address": "Sumel Business Park 7, Kochi, Kerala - 380023",
+    "phone": "9878789878",
+    "gstin": null
+  },
+  "transport_details": {
+    "name": "Silver Roadlines",
+    "id": "24ABSFS0321B2ZL"
+  },
+  "line_items": [
+    {
+      "item_number": 1,
+      "product_description": "Bosch All-in-One Metal Hand Tool Kit",
+      "hsn_sac": "8302",
+      "quantity": 2535.0,
+      "unit_price": null,
+      "taxable_value": 2535.0,
+      "gst_rate": 18.0,
+      "gst_amount": 456.3
+    },
+    {
+      "item_number": 2,
+      "product_description": "Taparia Universal Tool Kit",
+      "hsn_sac": "8302",
+      "quantity": 1270.0,
+      "unit_price": null,
+      "taxable_value": 1270.0,
+      "gst_rate": 18.0,
+      "gst_amount": 228.6
+    }
+  ],
+  "total_amounts": {
+    "total_taxable_amount": 3805.0,
+    "total_gst_amount": null,
+    "total_amount_after_tax": 4490.0
+  },
+  "bank_details": {
+    "bank_name": "IcIcl",
+    "branch_name": "Surate",
+    "account_number": "2715500356",
+    "ifsc_code": "ICICO45F",
+    "upi_id": "ifox@icici"
+  },
+  "terms_and_conditions": [
+    "Subject Our Responsibility Ceases as soon as goods leaves our Premises.",
+    "Goods once sold will not taken back.",
+    "Delivery Ex-Premises."
+  ],
+  "summary": {
+    "text": "This invoice from Gujarat Freight Tools to M/S Shiv Engineering details the sale of two tool kits. The total taxable amount is 3805.00, with an 18% GST applied on each item. The total amount after tax is 4490.00. Bank details and specific terms and conditions are also included.",
+    "approval_status": "Rejected",
+    "reasoning": "The invoice is rejected because GSTIN numbers for both the seller (Gujarat Freight Tools) and the buyer (M/S Shiv Engineering) are missing from the document, despite GST being applied on the items. This makes the invoice non-compliant with GST regulations."
+  }
+}

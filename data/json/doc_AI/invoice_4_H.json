@@ -1,0 +1,25 @@
+{
+  "invoice_details": {
+    "seller_name": "Kar Accessories Pvt. Ltd.",
+    "seller_address": "B-38, Lajpat Nagar-2, New Delhi- 24",
+    "seller_phone_numbers": [
+      "55656193",
+      "29815835",
+      "51721018"
+    ],
+    "seller_registration_number": "51015835",
+    "seller_tin": null,
+    "invoice_number": "13 G2",
+    "book_number": "40",
+    "invoice_date": null,
+    "purchaser_rg_number": null,
+    "purchaser_tin": null,
+    "grand_total": null,
+    "rounded_amount": null,
+    "items": []
+  },
+  "summary": {
+    "status": "Rejected",
+    "reasoning": "Invoice rejected because no GST details are applied on the invoice, and no GSTIN numbers are available for either seller or purchaser. The 'TIN No.:' field is also empty."
+  }
+}

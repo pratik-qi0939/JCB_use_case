@@ -1,0 +1,50 @@
+{
+  "invoice_details": {
+    "seller_name": "Sarawgl Trading Co",
+    "seller_address": {
+      "city": "Dimapur",
+      "state": null,
+      "pincode": null,
+      "full_address": null
+    },
+    "seller_gstin": null,
+    "invoice_number": null,
+    "invoice_date": null,
+    "buyer_name": null,
+    "buyer_address": {
+      "city": null,
+      "state": null,
+      "pincode": null,
+      "full_address": null
+    },
+    "buyer_gstin": null,
+    "items": [],
+    "subtotal_amount": null,
+    "tax_amount": null,
+    "total_amount": null,
+    "currency": null,
+    "terms_and_conditions": [
+      "Goods once sold cannot be taken back",
+      "All disputes subject to Dimapur only"
+    ],
+    "other_extracted_text": [
+      "RAGALAND",
+      "beaks = O02 Sle",
+      "m WAP LY",
+      "WAT)",
+      "State Code,",
+      "Qnty. Unit",
+      "Birr",
+      "Row [Pre",
+      "aM",
+      "CHEN?) Ly",
+      "CAt",
+      "We certify shat te mentioned {4 Me tat 'ud quaaity which there pre are warruited |"
+    ]
+  },
+  "summary": {
+    "invoice_summary": "Extremely limited invoice details available. Key information extracted includes seller name, seller jurisdiction, and two terms and conditions. The text contains many unclear and fragmented words.",
+    "approval_status": "Rejected",
+    "reasoning": "Invoice is rejected due to the complete absence of critical tax details, specifically the GST applied on the invoice and the GSTIN number. Additionally, essential invoice information such as an invoice number, invoice date, buyer details, itemized list, and all financial totals (subtotal, tax, total) are missing or unclear from the provided text."
+  }
+}

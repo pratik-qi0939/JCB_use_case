@@ -1,0 +1,20 @@
+{
+  "seller": {
+    "name": "RUBBERS",
+    "address": null,
+    "gstin": null
+  },
+  "supplier": {
+    "name": null,
+    "address": null
+  },
+  "items": [],
+  "amount": {
+    "total_before_gst": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "total_amount_after_gst": null,
+    "amount_in_words": null
+  }
+}

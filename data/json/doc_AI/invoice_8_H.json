@@ -1,0 +1,19 @@
+{
+  "invoice_details": {
+    "invoice_number": "7017655699",
+    "invoice_date": null,
+    "supplier_name": "She Royal Sports",
+    "supplier_address": "No. 2, Gym Road, Meeruty Nagar, Hapur (U py)",
+    "supplier_gstin": "OSCCCPAG758B12U",
+    "total_amount": null,
+    "total_gst_amount": null,
+    "bank_details": {
+      "bank_name": "AUS. BANK",
+      "ifsc_code": "UTIBO003453",
+      "account_number": null
+    }
+  },
+  "summary": "This invoice from 'She Royal Sports' includes a GSTIN (OSCCCPAG758B12U) and fields for 'Total GST' and 'Grand Total'. However, the actual monetary values for GST and the grand total, along with the invoice date and bank account number, are missing.",
+  "approval_status": "Rejected",
+  "rejection_reason": "The invoice is rejected because, despite the presence of a GSTIN, the 'Total GST' amount is missing. For approval based on GST, both the GSTIN and the specific amount of GST applied on the invoice must be clearly available."
+}

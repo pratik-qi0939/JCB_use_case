@@ -1,0 +1,41 @@
+{
+  "invoice_details": {
+    "vendor_name": "OM COMPUTERS",
+    "invoice_number": null,
+    "invoice_date": "1S",
+    "currency": null,
+    "items": [
+      {
+        "description": "Assembled",
+        "quantity": 1,
+        "unit_price": null,
+        "line_total": null
+      },
+      {
+        "description": "oF",
+        "quantity": 2,
+        "unit_price": null,
+        "line_total": null
+      },
+      {
+        "description": "Net protected fativins",
+        "quantity": 1,
+        "unit_price": null,
+        "line_total": null
+      },
+      {
+        "description": "Tony Refill",
+        "quantity": null,
+        "unit_price": null,
+        "line_total": null
+      }
+    ],
+    "subtotal_amount": null,
+    "tax_amount": null,
+    "total_amount": null,
+    "gstin_number": null
+  },
+  "summary": "This document from OM COMPUTERS appears to be an incomplete invoice or service note. It includes the vendor name and a partial date '1S'. Several items are listed with quantities (e.g., '1 Assembled', '2 oF', '1 Net protected fativins', 'Tony Refill'). However, crucial financial details such as unit prices, line totals, subtotal, tax amount, and a total amount are missing. There is no invoice number or GSTIN mentioned.",
+  "approval_status": "Rejected",
+  "reasoning": "The invoice is rejected because GST is not applied on the invoice, and the GSTIN number is missing. Additionally, essential financial information like unit prices, line totals, subtotal, and total amount is absent, which prevents proper verification of the transaction and tax compliance."
+}

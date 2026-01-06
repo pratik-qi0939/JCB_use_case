@@ -1,0 +1,97 @@
+{
+  "invoice_receipt_date": "21/7/15",
+  "payment_terms": "100% advance",
+  "receiver_name": "Govt. Arvind College Kirandul",
+  "total": 3800.0,
+  "vendor_address": "Bacheli,Bengali Old Market",
+  "vendor_name": "Principal College Arvind Govt (C 3.) mantownda",
+  "vendor_phone": "9424278053",
+  "other": [
+    {
+      "text": "Payment : - 100% advance",
+      "confidence": 98.04
+    },
+    {
+      "text": "Warrenty : - As per Company Rules",
+      "confidence": 99.66
+    },
+    {
+      "text": "Thanking & Assuring best services always to you.",
+      "confidence": 99.66
+    }
+  ],
+  "line_items": [
+    {
+      "item": "office Assumbled PC- 1\nSoftware Installation &\nNet protectal Antivirus",
+      "quantity": "/",
+      "unit_price": 450.0,
+      "price": 450.0,
+      "expense_row": "1. office Assumbled PC- 1\n450.00 450.00\nSoftware Installation &\nNet protectal Antivirus / 750.00 750.00"
+    },
+    {
+      "item": "Net protectal Antivirus",
+      "quantity": "/",
+      "unit_price": 750.0,
+      "price": 750.0,
+      "expense_row": "Net protectal Antivirus / 750.00 750.00"
+    },
+    {
+      "item": "Sharp 5618N Tonor\nRefill Genine",
+      "quantity": "I",
+      "unit_price": 2600.0,
+      "price": 2600.0,
+      "expense_row": "2. Sharp 5618N Tonor I 2600.00 2600.00\nRefill Genine"
+    }
+  ],
+  "raw_text_lines": [
+    "28115",
+    "Mob $ 9424278053",
+    "191",
+    "OM COMPUTERS",
+    "Computer Sales & Services, All type of Printers Cartridge & Refilling",
+    "Computer Spares",
+    "Old Market Bacheli,Bengali Camp no-1,Shri ram Chandra Ward Bacheli - 494553 (C.G)",
+    "Date : 21/7/15",
+    "Sr.no.",
+    "1",
+    "To. Govt. Arvind College Kirandul",
+    "S.NO",
+    "PARTICULARS",
+    "QTY",
+    "RATE",
+    "AMOUNT",
+    "1.",
+    "office Assumbled PC- 1",
+    "450.00",
+    "450.00",
+    "Software Installation &",
+    "Net protectal Antivirus",
+    "/",
+    "750.00",
+    "750.00",
+    "2.",
+    "Sharp 5618N Tonor",
+    "2600.00",
+    "2600.00",
+    "I",
+    "Refill Genine",
+    "Principal",
+    "Govt Arvind College",
+    "mantownda (C 3.)",
+    "TOTAL:",
+    "3800.00",
+    "Terms & Conditions",
+    "Payment :- 100% advance",
+    "Warrenty :- As per Company Rules",
+    "Thanking & Assuring best services always to you.",
+    "JOHN",
+    "For, OM/COMPUTERS",
+    "Reciever's Signature",
+    "bp",
+    "SONY DELL",
+    "TOSHIBA",
+    "acer lenovo",
+    "Leading Insertation"
+  ],
+  "final_overall_confidence_score": 87.17
+}

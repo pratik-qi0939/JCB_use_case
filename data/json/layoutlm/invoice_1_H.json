@@ -1,0 +1,34 @@
+{
+  "extracted_data": {
+    "invoice_number": "9473010484",
+    "vendor_name": "BHGRGT",
+    "vendor_address": "Shop No, 20A, Ground Floce, Market Extn, Ghaztabad (UP) 201091",
+    "invoice_date": null,
+    "gstin": null,
+    "reverse_charge_applicable": "Yes",
+    "electronic_reference_no": null,
+    "items": [
+      {
+        "description": "PAPER VALVE",
+        "hsn_code": null,
+        "quantity": 2,
+        "rate": 7992,
+        "taxable_value": null,
+        "item_total": null
+      }
+    ],
+    "cgst_amount": 0.2,
+    "sgst_amount": 0.2,
+    "total_gst_amount": 0.4,
+    "grand_total": null,
+    "bank_details": {
+      "bank_name": "PUNJAS & SID BANK",
+      "account_number": null,
+      "branch": "CHANDER NAGAR",
+      "ifsc_code": "PSIB0000906"
+    }
+  },
+  "summary": "Invoice number 9473010484 from vendor BHGRGT located at Shop No, 20A, Ground Floce, Market Extn, Ghaztabad (UP) 201091. It lists one item: PAPER VALVE with a quantity of 2 and a rate of 7992. CGST and SGST are applied at 0.2 each, leading to a total GST of 0.4. Bank details for PUNJAS & SID BANK, CHANDER NAGAR branch with IFSC code PSIB0000906 are also provided.",
+  "approval_status": "Rejected",
+  "reason": "The invoice is rejected because a valid GSTIN Number is missing, which is essential for GST compliance, even though GST amounts are mentioned."
+}

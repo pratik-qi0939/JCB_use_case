@@ -1,0 +1,37 @@
+{
+  "seller": {
+    "name": "BHGRGT",
+    "address": "Shop No, 20A, Ground Floce, Market Extn, Ghaztabad (UP) 201091",
+    "gstin": null,
+    "phone_numbers": null
+  },
+  "buyer": {
+    "name": null,
+    "address": null,
+    "state": null,
+    "gstin": null
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "PAPER VALVE",
+      "hsn_code": null,
+      "rate": 7992,
+      "taxable_value": null
+    }
+  ],
+  "amount": {
+    "total_before_gst": null,
+    "cgst": 0.2,
+    "sgst": 0.2,
+    "igst": null,
+    "total_amount_after_gst": null,
+    "amount_in_words": null
+  },
+  "bank_details": {
+    "bank_name": "PUNJAS & SID BANK",
+    "account_no": null,
+    "branch": "CHANDER NAGAR",
+    "ifsc_code": "PSIB0000906"
+  }
+}

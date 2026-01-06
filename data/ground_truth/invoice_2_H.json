@@ -1,0 +1,39 @@
+{
+  "seller": {
+    "name": "SARAWGI TRADING CO.",
+    "address": "Dimapur - 797112 : Nagaland",
+    "phone_numbers": [
+      "226373 (O)",
+      "227002 (M)"
+    ]
+  },
+
+  "buyer": {
+    "name": "PRASHANT THAPLIYAL",
+    "address": "I.I.T. GUWAHATI",
+    "organization": "DIBANG HOTEL",
+    "gstin": null,
+    "state_code": null
+  },
+
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "RIVER SAND",
+      "hsn_code": "3010",
+      "quantity": 20,
+      "rate": 2190,
+      "amount": 43800,
+      "remarks": "Transport charges to D.C. Kiphire; Contact: Cheni Ovung, E.A.C. Kiphire, 888749890"
+    }
+  ],
+
+  "amount": {
+    "total_before_gst": 43800,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "total_amount_after_gst": 43800,
+    "amount_in_words": null
+  }
+}

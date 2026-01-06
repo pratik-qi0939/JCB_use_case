@@ -1,0 +1,35 @@
+{
+  "seller": {
+    "name": "SARAWGI TRADING CO.",
+    "address": "Disnapour Gover Rogah Contractor & Supplier",
+    "phone_numbers": [
+      "228373(0)"
+    ]
+  },
+  "buyer": {
+    "name": "PRASHANT THAPLIYAL",
+    "address": "DIBANG HOSTEL 1.1.T. GAVHATI",
+    "organization": "DIBANG HOSTEL",
+    "gstin": null,
+    "state_code": "S"
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "Rupers Fung parts Eight Hundred only) to m sint A D.C. KIPHIRE Contact CHENI OVNE E.A.C. KIPHINE 8787478590",
+      "hsn_code": "3010",
+      "quantity": "20",
+      "rate": 218,
+      "amount": 43800,
+      "remarks": null
+    }
+  ],
+  "amount": {
+    "total_before_gst": 43800,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "total_amount_after_gst": 43800,
+    "amount_in_words": null
+  }
+}

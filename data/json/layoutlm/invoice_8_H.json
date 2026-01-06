@@ -1,0 +1,21 @@
+{
+  "extracted_data": {
+    "invoice_number": "7017655699",
+    "invoice_date": null,
+    "gstin": "OSCCCPAG758B12U",
+    "supplier_name": "She Royal Sports",
+    "supplier_address": "No. 2, Gym Road, Meeruty : Nagar, Hapur (U py)",
+    "total_amount": null,
+    "total_gst_amount": null,
+    "bank_details": {
+      "bank_name": "AUS. BANK",
+      "ifsc_code": "UTIBO003453",
+      "account_number": null
+    },
+    "state": "UTTAR PRADESH",
+    "transportation_mode": "Mod"
+  },
+  "summary": "This invoice from She Royal Sports (GSTIN: OSCCCPAG758B12U, State: UTTAR PRADESH) has an Invoice Number 7017655699. Bank details for AUS. BANK with IFSC UTIBO003453 are present. However, the invoice date, total amount, and total GST amount are missing.",
+  "approval_status": "Rejected",
+  "reasoning": "Rejected. Although a GSTIN number (OSCCCPAG758B12U) is available, the 'Total GST' amount applied on the invoice is missing, which is crucial for tax verification and compliance."
+}

@@ -1,0 +1,43 @@
+{
+  "seller": {
+    "name": "OM COMPUTERS",
+    "address": "Old Market Bacheli, Bengali Camp no-1, Shri ram Chandra Ward Bacheli - 494553 (C.G)",
+    "phone_numbers": [
+      "9424275053"
+    ]
+  },
+
+  "buyer": {
+    "name": "Govt. Anind College, Kirandul"
+  },
+
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "Office Assembled PC - 1",
+      "quantity": 1,
+      "rate": 450,
+      "amount": 450
+    },
+    {
+      "sr_no": 2,
+      "description": "Software Installation & Net Protector Antivirus",
+      "quantity": 1,
+      "rate": 750,
+      "amount": 750
+    },
+    {
+      "sr_no": 3,
+      "description": "Sharp 5618N Toner Refill Genuine",
+      "quantity": 1,
+      "rate": 2600,
+      "amount": 2600
+    }
+  ],
+
+  "amount": {
+    "total_before_gst": 3800,
+    "total_amount_after_gst": 3800,
+    "amount_in_words": null
+  }
+}

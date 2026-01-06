@@ -1,0 +1,41 @@
+{
+  "seller": {
+    "name": "FOR PERFECT FIRE PROTECTION SERVICES",
+    "address": "Nirmal Colony, Holy Mother English Medium School, Behind Ashar Grape City, Kale Nagar",
+    "gstin": "27AGVPK4057E1Z3",
+    "phone_numbers": [
+      "9822772306",
+      "9850791182,7774015115"
+    ]
+  },
+  "buyer": {
+    "name": "of Receiver (Billed To)",
+    "address": "Chinchwar, Dhule, Dhule",
+    "gstin": null
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "SCBA refilling. (300 bass)",
+      "hsn_code": "998399",
+      "quantity": "OZNOS",
+      "rate": "2100/-",
+      "amount": "4200=00"
+    }
+  ],
+  "amount": {
+    "assessable_value": 24450200,
+    "sgst": 2200,
+    "cgst": 2200250,
+    "igst": null,
+    "total_gst_amount": 4401.0,
+    "total_amount_after_gst": 28851.0,
+    "amount_in_words": null
+  },
+  "bank_details": {
+    "bank_name": null,
+    "account_no": null,
+    "ifsc_code": null,
+    "branch": null
+  }
+}

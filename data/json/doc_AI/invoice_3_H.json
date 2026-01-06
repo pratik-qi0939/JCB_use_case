@@ -1,0 +1,21 @@
+{
+  "invoice_number": "0002900",
+  "invoice_date": null,
+  "seller_name": "RUBBERS",
+  "buyer_name": null,
+  "seller_address": null,
+  "buyer_address": null,
+  "gstin": null,
+  "items": [],
+  "sub_total": null,
+  "tax_amount": null,
+  "total_amount": null,
+  "currency": null,
+  "other_details": {
+    "registration_status": "UNREGISTERED."
+  },
+  "summary": {
+    "approval_status": "Rejected",
+    "rejection_reason": "GSTIN is missing. Although the text states 'UNREGISTERED.', indicating no GST is applied, the absence of a GSTIN and other critical invoice details (like total amount, date, and proper itemization) prevents full verification and processing."
+  }
+}

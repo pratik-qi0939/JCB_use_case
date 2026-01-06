@@ -1,0 +1,40 @@
+{
+  "seller": {
+    "name": "Principal College Arvind Govt (C 3.) mantownda",
+    "address": "Bacheli,Bengali Old Market",
+    "phone_numbers": [
+      "9424278053"
+    ]
+  },
+  "buyer": {
+    "name": "Govt. Arvind College Kirandul"
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "office Assumbled PC- 1\nSoftware Installation &\nNet protectal Antivirus",
+      "quantity": "/",
+      "rate": 450.0,
+      "amount": 450.0
+    },
+    {
+      "sr_no": null,
+      "description": "Net protectal Antivirus",
+      "quantity": "/",
+      "rate": 750.0,
+      "amount": 750.0
+    },
+    {
+      "sr_no": null,
+      "description": "Sharp 5618N Tonor\nRefill Genine",
+      "quantity": "I",
+      "rate": 2600.0,
+      "amount": 2600.0
+    }
+  ],
+  "amount": {
+    "total_before_gst": 3800.0,
+    "total_amount_after_gst": 3800.0,
+    "amount_in_words": null
+  }
+}

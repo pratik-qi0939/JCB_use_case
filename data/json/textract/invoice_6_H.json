@@ -1,0 +1,274 @@
+{
+  "invoice": {
+    "summary": {
+      "address": {
+        "street": "No. 781, 782, Mettupalayam Road, Near X Cut Signal",
+        "city": "Coimbatore",
+        "zip_code": "641 002",
+        "confidence": 96.42
+      },
+      "name": "METRO HARDWARE & PLYWOOD",
+      "confidence": 99.8
+    },
+    "vendor": {
+      "name": "METRO HARDWARE & PLYWOOD",
+      "confidence": 99.88,
+      "gst_number": "33DGTPM5842J1ZT",
+      "address": {
+        "street": "No. 781, 782, Mettupalayam Road, Near X Cut Signal",
+        "city": "Coimbatore",
+        "zip_code": "641 002",
+        "confidence": 97.33
+      }
+    },
+    "receiver": {
+      "name": "G. Umarani",
+      "confidence": 99.87
+    },
+    "invoice_receipt": {
+      "date": "10.19.20",
+      "confidence": 99.75,
+      "id": "493"
+    },
+    "tax": "375",
+    "subtotal": "6250",
+    "confidence": 88.61,
+    "total": "7000"
+  },
+  "line_items": [
+    {
+      "product_code": "19x20x4 cut",
+      "confidence": 99.41,
+      "quantity": "IPCS",
+      "unit_price": "1150",
+      "price": "1150",
+      "item": "19x20x4 cut",
+      "expense_row": "IPCS 1150 1150\n19x20x4 cut (99.74%)"
+    },
+    {
+      "product_code": "19x20x6",
+      "confidence": 99.94,
+      "quantity": "2128",
+      "unit_price": "975",
+      "price": "1950",
+      "item": "Plain\n19x20x6",
+      "expense_row": "Plain 2128 975 1950\n19x20x6 (99.96%)"
+    },
+    {
+      "product_code": "19XWX8",
+      "confidence": 99.27,
+      "quantity": "3PLS",
+      "unit_price": "1050",
+      "price": "3150",
+      "item": "plain\n19XWX8",
+      "expense_row": "3PLS 1050 3150\nplain\n19XWX8 (99.63%)"
+    }
+  ],
+  "raw_text_lines": [
+    {
+      "text": "CASH BILL (Conf: 99.97%)",
+      "confidence": 99.97
+    },
+    {
+      "text": "GSTIN : 33DGTPM5842J1ZT (Conf: 94.88%)",
+      "confidence": 94.88
+    },
+    {
+      "text": "METRO HARDWARE & PLYWOOD (Conf: 99.86%)",
+      "confidence": 99.86
+    },
+    {
+      "text": "No. 781, 782, Mettupalayam Road, Near X Cut Signal, (Conf: 96.15%)",
+      "confidence": 96.15
+    },
+    {
+      "text": "Coimbatore - 641 002. (Conf: 90.57%)",
+      "confidence": 90.57
+    },
+    {
+      "text": "No. : (Conf: 98.24%)",
+      "confidence": 98.24
+    },
+    {
+      "text": "493 (Conf: 99.76%)",
+      "confidence": 99.76
+    },
+    {
+      "text": "Date : 10.19.20 (Conf: 88.08%)",
+      "confidence": 88.08
+    },
+    {
+      "text": "To. (Conf: 98.40%)",
+      "confidence": 98.4
+    },
+    {
+      "text": "G. Umarani (Conf: 93.45%)",
+      "confidence": 93.45
+    },
+    {
+      "text": "HSN (Conf: 99.82%)",
+      "confidence": 99.82
+    },
+    {
+      "text": "Rate (Conf: 99.89%)",
+      "confidence": 99.89
+    },
+    {
+      "text": "Amount (Conf: 99.97%)",
+      "confidence": 99.97
+    },
+    {
+      "text": "Description (Conf: 99.84%)",
+      "confidence": 99.84
+    },
+    {
+      "text": "Code (Conf: 99.85%)",
+      "confidence": 99.85
+    },
+    {
+      "text": "Quntity (Conf: 88.71%)",
+      "confidence": 88.71
+    },
+    {
+      "text": "Rs. Ps. (Conf: 99.56%)",
+      "confidence": 99.56
+    },
+    {
+      "text": "Rs. (Conf: 99.64%)",
+      "confidence": 99.64
+    },
+    {
+      "text": "Ps. (Conf: 99.47%)",
+      "confidence": 99.47
+    },
+    {
+      "text": "19x20x4 cut (Conf: 82.98%)",
+      "confidence": 82.98
+    },
+    {
+      "text": "IPCS (Conf: 62.72%)",
+      "confidence": 62.72
+    },
+    {
+      "text": "1150 (Conf: 99.95%)",
+      "confidence": 99.95
+    },
+    {
+      "text": "1150 (Conf: 99.93%)",
+      "confidence": 99.93
+    },
+    {
+      "text": "- (Conf: 75.68%)",
+      "confidence": 75.68
+    },
+    {
+      "text": "19x20x6 Plain (Conf: 82.67%)",
+      "confidence": 82.67
+    },
+    {
+      "text": "2128 (Conf: 58.08%)",
+      "confidence": 58.08
+    },
+    {
+      "text": "975 (Conf: 99.86%)",
+      "confidence": 99.86
+    },
+    {
+      "text": "1950 (Conf: 99.94%)",
+      "confidence": 99.94
+    },
+    {
+      "text": "- (Conf: 92.92%)",
+      "confidence": 92.92
+    },
+    {
+      "text": "19XWX8 plain (Conf: 46.50%)",
+      "confidence": 46.5
+    },
+    {
+      "text": "3PLS (Conf: 61.56%)",
+      "confidence": 61.56
+    },
+    {
+      "text": "1050 (Conf: 90.06%)",
+      "confidence": 90.06
+    },
+    {
+      "text": "3150 (Conf: 99.64%)",
+      "confidence": 99.64
+    },
+    {
+      "text": "- (Conf: 93.58%)",
+      "confidence": 93.58
+    },
+    {
+      "text": "1 (Conf: 71.60%)",
+      "confidence": 71.6
+    },
+    {
+      "text": "6250 (Conf: 99.92%)",
+      "confidence": 99.92
+    },
+    {
+      "text": "Add SGST @ 6 % (Conf: 98.28%)",
+      "confidence": 98.28
+    },
+    {
+      "text": "375 - (Conf: 96.99%)",
+      "confidence": 96.99
+    },
+    {
+      "text": "Add CGST @ 6 % (Conf: 99.42%)",
+      "confidence": 99.42
+    },
+    {
+      "text": "375 (Conf: 99.85%)",
+      "confidence": 99.85
+    },
+    {
+      "text": "- (Conf: 98.07%)",
+      "confidence": 98.07
+    },
+    {
+      "text": "E&OE (Conf: 88.49%)",
+      "confidence": 88.49
+    },
+    {
+      "text": "Total Amount After Tax (Conf: 99.93%)",
+      "confidence": 99.93
+    },
+    {
+      "text": "7000 (Conf: 99.97%)",
+      "confidence": 99.97
+    },
+    {
+      "text": "- (Conf: 97.85%)",
+      "confidence": 97.85
+    },
+    {
+      "text": "1. All articles are carefully examined before despatch and no claim will be entertained for breakage For METRO HARDWAREAPLYWOOD (Conf: 96.26%)",
+      "confidence": 96.26
+    },
+    {
+      "text": "and shortage transit. (Conf: 91.00%)",
+      "confidence": 91.0
+    },
+    {
+      "text": "2. Interest will be charged at 24% p.e. from the date. (Conf: 92.28%)",
+      "confidence": 92.28
+    },
+    {
+      "text": "3. All disputes subject to Coimbatore Jurisdiction (Conf: 98.79%)",
+      "confidence": 98.79
+    },
+    {
+      "text": "Q (Conf: 47.35%)",
+      "confidence": 47.35
+    },
+    {
+      "text": "4. All other will be acecuted at the rates rulling on the date of despatch. (Conf: 98.91%)",
+      "confidence": 98.91
+    }
+  ],
+  "final_overall_confidence_score": 89.04
+}

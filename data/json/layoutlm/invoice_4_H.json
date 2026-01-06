@@ -1,0 +1,22 @@
+{
+  "invoice_details": {
+    "seller_name": "Kar Accessories Pvt. Ltd.",
+    "seller_address": "B-38, Lajpat Nagar-2, New Delhi- 24",
+    "seller_contact_numbers": [
+      "55656193",
+      "29815835",
+      "51721018"
+    ],
+    "invoice_serial_number": "13 G2",
+    "invoice_date": null,
+    "purchaser_name": null,
+    "purchaser_registration_number": null,
+    "seller_registration_number": "51015835, 07820208862",
+    "seller_tin_number": null,
+    "gstin_number": null,
+    "grand_total_amount": null
+  },
+  "summary": "This invoice from Kar Accessories Pvt. Ltd. (Serial No. 13 G2) is incomplete, missing the invoice date, purchaser details, and the grand total amount. Crucially, it lacks any GST details or a populated TIN number.",
+  "approval_status": "Rejected",
+  "rejection_reason": "GST is not applied on the invoice, and GSTIN/TIN details are missing or empty."
+}

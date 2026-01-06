@@ -1,0 +1,20 @@
+{
+  "invoice_details": {
+    "vendor_name": "Sarawgl Trading Co",
+    "vendor_address": "Dimapur",
+    "invoice_number": null,
+    "invoice_date": null,
+    "customer_name": null,
+    "items": null,
+    "subtotal": null,
+    "tax_amount": null,
+    "total_amount": null,
+    "currency": "Birr",
+    "gstin": null,
+    "gst_applied": false,
+    "state_code": null
+  },
+  "summary": "This document appears to be a very partial and fragmented invoice or bill. It mentions 'Sarawgl Trading Co' as the probable vendor and 'Dimapur' as a jurisdictional location. It includes terms like 'Qnty. Unit Birr' which suggest quantity, unit, and currency fields. Potential product references like 'Leach be Sapplioe' and 'RAGALAND' are present, along with a quantity 'O02 Sle' and an isolated '4'. However, critical invoice details such as an invoice number, date, customer information, a clear itemized list with prices, subtotal, tax amounts, and total amount are missing.",
+  "approval_status": "Rejected",
+  "reasoning": "The invoice is rejected because it lacks essential tax details. Specifically, there is no explicit mention of GST being applied, and no GSTIN (Goods and Services Tax Identification Number) is provided, making it impossible to verify tax compliance."
+}

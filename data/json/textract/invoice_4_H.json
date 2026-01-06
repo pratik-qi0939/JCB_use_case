@@ -1,0 +1,302 @@
+{
+  "invoice": {
+    "summary": {
+      "sender": {
+        "name": "Elegant Kar Accessories Pvt. Ltd.",
+        "address": "B-38, Lajpat Nagar-2, New Delhi - 24.",
+        "phone": [
+          "55656193",
+          "29815835",
+          "51015835",
+          "51721018"
+        ],
+        "taxpayer_id": "07820208862"
+      },
+      "receiver": {
+        "name": "Mr. Aditya Rajin",
+        "address": "A 104, Gateway appartments."
+      },
+      "subtotal": 13000,
+      "tax": null,
+      "total": 13000,
+      "vendor": {
+        "name": "Elegant Kar Accessories Pvt. Ltd.",
+        "address": "B-38, Lajpat Nagar-2, New Delhi - 24.",
+        "phone": [
+          "55656193",
+          "29815835",
+          "51015835",
+          "51721018"
+        ]
+      }
+    },
+    "line_items": [
+      {
+        "item": "Car spr. (Component) kit Orfinity) Model# 6010 CS.",
+        "quantity": "1pair",
+        "unit_price": "95001-",
+        "price": "9500s-",
+        "expense_row": "I Car spr. (Component) kit Orfinity) Model# 1pair 95001- 9500s- 6010 CS."
+      },
+      {
+        "item": "Waring kit (JBL) (Car) 1set for Amp & woofer.",
+        "quantity": "1set",
+        "unit_price": "35001-",
+        "price": "3500/-",
+        "expense_row": "2 Waring kit (JBL) (Car) 1set 35001- 3500/- for Amp & woofer."
+      }
+    ],
+    "other": [
+      {
+        "description": "40",
+        "value": null
+      },
+      {
+        "description": "1992",
+        "value": null
+      },
+      {
+        "description": "%",
+        "value": null
+      },
+      {
+        "description": "M",
+        "value": null
+      },
+      {
+        "description": "20 Nos",
+        "value": null
+      }
+    ],
+    "raw_text": [
+      {
+        "text": "RETAIL INVOICE/CASH MEMO/BILL",
+        "confidence": 99.58
+      },
+      {
+        "text": "Elegant Kar Accessories Pvt. Ltd.",
+        "confidence": 99.58
+      },
+      {
+        "text": "Book No. : 40",
+        "confidence": 99.44
+      },
+      {
+        "text": "AUTHORISED DEALER FOR : SONY, ALPINE, pioneer,SAMSUNG",
+        "confidence": 97.91
+      },
+      {
+        "text": "Serial No. :",
+        "confidence": 99.53
+      },
+      {
+        "text": "CAR AUDIO, AUTOCOPXS DOOR LOCKING & POWER WINDOWS",
+        "confidence": 98.9
+      },
+      {
+        "text": "1992",
+        "confidence": 63.97
+      },
+      {
+        "text": "B-38, Lajpat Nagar-2, New Delhi - 24. Tel.: 55656193, 29815835, 51015835, 51721018",
+        "confidence": 93.72
+      },
+      {
+        "text": "Date 23 / 3 / 06 .",
+        "confidence": 71.23
+      },
+      {
+        "text": "Registration No./TIN : 07820208862",
+        "confidence": 97.79
+      },
+      {
+        "text": "To Mr. Aditya Rajin",
+        "confidence": 75.43
+      },
+      {
+        "text": "Purchaser's RC No.:",
+        "confidence": 99.67
+      },
+      {
+        "text": "A 104, Gateway appartments.",
+        "confidence": 68.15
+      },
+      {
+        "text": "TIN No.:",
+        "confidence": 99.65
+      },
+      {
+        "text": "SI.",
+        "confidence": 78.46
+      },
+      {
+        "text": "Description of Goods",
+        "confidence": 99.92
+      },
+      {
+        "text": "Quantity",
+        "confidence": 99.94
+      },
+      {
+        "text": "Value of",
+        "confidence": 99.93
+      },
+      {
+        "text": "No.",
+        "confidence": 99.87
+      },
+      {
+        "text": "Total",
+        "confidence": 99.91
+      },
+      {
+        "text": "Unit/Rate",
+        "confidence": 99.64
+      },
+      {
+        "text": "Amount",
+        "confidence": 99.98
+      },
+      {
+        "text": "I",
+        "confidence": 47.8
+      },
+      {
+        "text": "Car spr. (Component) kit",
+        "confidence": 77.73
+      },
+      {
+        "text": "Orfinity) Model#",
+        "confidence": 77.66
+      },
+      {
+        "text": "1pair",
+        "confidence": 66.2
+      },
+      {
+        "text": "95001-",
+        "confidence": 76.49
+      },
+      {
+        "text": "9500s-",
+        "confidence": 65.5
+      },
+      {
+        "text": "6010 CS.",
+        "confidence": 94.63
+      },
+      {
+        "text": "2",
+        "confidence": 99.46
+      },
+      {
+        "text": "Waring kit (JBL) (Car) for",
+        "confidence": 75.86
+      },
+      {
+        "text": "1set",
+        "confidence": 56.95
+      },
+      {
+        "text": "35001-",
+        "confidence": 65.63
+      },
+      {
+        "text": "3500/-",
+        "confidence": 75.74
+      },
+      {
+        "text": "Amp & woofer.",
+        "confidence": 84.18
+      },
+      {
+        "text": "Rupees) Thirteen thousand",
+        "confidence": 98.8
+      },
+      {
+        "text": "Total",
+        "confidence": 99.94
+      },
+      {
+        "text": "13000/-",
+        "confidence": 99.0
+      },
+      {
+        "text": "(+) VAT/CST @",
+        "confidence": 99.03
+      },
+      {
+        "text": "%",
+        "confidence": 99.85
+      },
+      {
+        "text": "only -",
+        "confidence": 90.78
+      },
+      {
+        "text": "Total Sale Price Inclusive of VAT/CST",
+        "confidence": 99.75
+      },
+      {
+        "text": "13000/-",
+        "confidence": 97.67
+      },
+      {
+        "text": "e/Transfer Central Form against C/F/H etc. (if any)",
+        "confidence": 93.34
+      },
+      {
+        "text": "Cartage",
+        "confidence": 99.54
+      },
+      {
+        "text": "Grand Total",
+        "confidence": 99.87
+      },
+      {
+        "text": "13000/-",
+        "confidence": 72.03
+      },
+      {
+        "text": "Rounded to / off",
+        "confidence": 99.3
+      },
+      {
+        "text": "O.E.",
+        "confidence": 98.2
+      },
+      {
+        "text": "For Elegant Kar Accessories Pvt. Ltd.",
+        "confidence": 99.82
+      },
+      {
+        "text": "Il disputes are subject to Delhi Jurisdiction only.",
+        "confidence": 96.34
+      },
+      {
+        "text": "oods once sold will neither be taken back or not exchanged.",
+        "confidence": 99.22
+      },
+      {
+        "text": "Customer Signature",
+        "confidence": 99.93
+      },
+      {
+        "text": "M",
+        "confidence": 70.7
+      },
+      {
+        "text": "Signature",
+        "confidence": 99.6
+      },
+      {
+        "text": "by - Exosquad Printers; D-251, Munirka, New Delhi",
+        "confidence": 87.37
+      },
+      {
+        "text": "Book Printed : 20 Nos : Invoice Printed : 1001 to 2000",
+        "confidence": 96.68
+      }
+    ]
+  }
+}

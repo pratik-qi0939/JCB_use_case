@@ -1,0 +1,39 @@
+{
+  "seller": {
+    "name": "EDINJUKUZHIYIL RUBBERS",
+    "address": "South Kondazhy P.O., Thrissur Dist",
+    "gstin": "32AFPPJ3531B1ZY"
+  },
+  "supplier": {
+    "name": "Chellamma K.V",
+    "address": null
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "Natural Rubber RSS (99.99%)",
+      "hsn_code": "40012100 (92.92%)",
+      "quantity": "288 (99.94%)",
+      "unit": null,
+      "rate": "149.50 (99.97%)",
+      "amount": "43056 (99.99%)"
+    },
+    {
+      "sr_no": null,
+      "description": "Natural Rubber Field Coagulam (99.99%)",
+      "hsn_code": "40012990 (92.91%)",
+      "quantity": "21 (99.95%)",
+      "unit": null,
+      "rate": "77 (99.99%)",
+      "amount": "1617 (99.96%)"
+    }
+  ],
+  "amount": {
+    "total_before_gst": "44673",
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "total_amount_after_gst": "44673",
+    "amount_in_words": null
+  }
+}

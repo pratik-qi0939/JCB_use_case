@@ -1,0 +1,21 @@
+{
+  "invoice_details": {
+    "supplier_name": "Perfect Fire Protection Services",
+    "supplier_address": "Regd. 2, Manns Appt., Nirmal Colony, Nashik. 422013",
+    "supplier_gstin": null,
+    "invoice_date": null,
+    "delivery_challan_number": null,
+    "cgst_percentage": "9%",
+    "sgst_percentage": "9%",
+    "grand_total_amount": null,
+    "bank_name": "Bank of Baroda",
+    "bank_account_number": "41360200000268",
+    "bank_ifsc_code": "BARB0PIMPAL",
+    "bank_branch": "Bahula"
+  },
+  "summary": {
+    "summary_text": "This invoice is issued by Perfect Fire Protection Services. It indicates the application of GST with CGST at 9% and SGST at 9%. However, key details such as a valid supplier GSTIN, the invoice date, and the grand total amount are not clearly present in the document.",
+    "approval_status": "Rejected",
+    "rejection_reason": "The invoice is rejected because a valid supplier GSTIN is missing, which is essential for GST compliance. Furthermore, the invoice date and grand total amount are unclear or not provided."
+  }
+}

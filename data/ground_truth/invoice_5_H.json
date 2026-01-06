@@ -1,0 +1,62 @@
+{
+  "seller": {
+    "name": "Perfect Fire Protection Services",
+    "address": "2, Manas Appt., Nimal Colony, Holy Mother English Medium School, Behind Ashar Grape City, Kale Nagar, Pipe Line Road, Anandwali, Nashik 422013",
+    "gstin": "27AGVPK4057E1Z3",
+    "phone_numbers": [
+      "9822772306",
+      "9850791182",
+      "7774015115"
+    ]
+  },
+
+  "buyer": {
+    "name": "Solar Exploration Ltd.",
+    "address": "A/P Chinchwar, Dhule",
+    "gstin": null
+  },
+
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "ABC Fire Extinguisher refilling - 06 kg",
+      "hsn_code": "3813",
+      "quantity": 25,
+      "rate": 550,
+      "amount": 13750
+    },
+    {
+      "sr_no": 2,
+      "description": "CO2 Fire Extinguisher refilling - 4.5 kg",
+      "hsn_code": "3813",
+      "quantity": 10,
+      "rate": 650,
+      "amount": 6500
+    },
+    {
+      "sr_no": 3,
+      "description": "SCBA refilling (300 bars)",
+      "hsn_code": "998399",
+      "quantity": 2,
+      "rate": 2100,
+      "amount": 4200
+    }
+  ],
+
+  "amount": {
+    "assessable_value": 24450,
+    "sgst": 2200.50,
+    "cgst": 2200.50,
+    "igst": null,
+    "total_gst_amount": 4401,
+    "total_amount_after_gst": 28851,
+    "amount_in_words": "Twenty Eight Thousand Eight Hundred Fifty One only"
+  },
+
+  "bank_details": {
+    "bank_name": "Bank of Baroda",
+    "account_no": "1136020000266",
+    "ifsc_code": "BARBOPIMPAL",
+    "branch": "Pimpalgaon Bahula"
+  }
+}

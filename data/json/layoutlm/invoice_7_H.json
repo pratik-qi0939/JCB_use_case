@@ -1,0 +1,41 @@
+{
+  "invoice_details": {
+    "invoice_number": null,
+    "invoice_date": null,
+    "supplier_name": "OM COMPUTERS",
+    "supplier_address": null,
+    "supplier_gstin": null,
+    "customer_name": null,
+    "customer_address": null,
+    "customer_gstin": null,
+    "items": [
+      {
+        "item_description": "Assembled",
+        "quantity": 1,
+        "unit_price": null,
+        "line_total": null
+      },
+      {
+        "item_description": "Net protected fativins 1",
+        "quantity": 2,
+        "unit_price": null,
+        "line_total": null
+      },
+      {
+        "item_description": "Tony Refill",
+        "quantity": null,
+        "unit_price": null,
+        "line_total": null
+      }
+    ],
+    "subtotal": null,
+    "tax_amount": null,
+    "total_amount": null,
+    "currency": null
+  },
+  "summary": {
+    "invoice_summary_text": "The document appears to be a partial and poorly OCR-extracted snippet from a computer sales and service transaction by 'OM COMPUTERS'. It lists some items like 'Assembled' and 'Net protected fativins', along with phrases like 'Warranty As par Company' and 'Assuring best services'. The text lacks a clear invoice structure, complete pricing, dates, or detailed customer information.",
+    "approval_status": "Rejected",
+    "rejection_reason": "The invoice is rejected because it lacks essential tax details, specifically any mention of GST applied and a GSTIN number, which are critical for tax compliance and verification."
+  }
+}

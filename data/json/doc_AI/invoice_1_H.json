@@ -1,0 +1,49 @@
+{
+  "invoice_details": {
+    "invoice_type": "TAX INVOICE",
+    "invoice_number": "9473010484",
+    "invoice_date": null,
+    "reverse_charge": "Yes"
+  },
+  "supplier_details": {
+    "name": "BHGRGT",
+    "address": "Shop No, 20A, Ground Floce, Market Extn, Ghaztabad (UP) 201091",
+    "gstin": null
+  },
+  "customer_details": {
+    "name": null,
+    "address": null,
+    "gstin": null
+  },
+  "line_items": [
+    {
+      "description": "PAPER VALVE",
+      "hsn_sac": null,
+      "quantity": null,
+      "rate": null,
+      "taxable_value": 7992,
+      "item_total": null
+    }
+  ],
+  "payment_details": {
+    "bank_name": "PUNJAS & SID BANK",
+    "branch": "CHANDER NAGAR",
+    "ifsc_code": "PSIB0000906",
+    "account_number": null
+  },
+  "tax_details": {
+    "subtotal": 7992,
+    "cgst_rate": null,
+    "cgst_amount": null,
+    "sgst_rate": null,
+    "sgst_amount": null,
+    "igst_rate": null,
+    "igst_amount": null,
+    "total_gst_amount": null,
+    "grand_total_amount": null
+  },
+  "summary": {
+    "status": "Rejected",
+    "reason": "Invoice is rejected because the supplier's GSTIN number is missing, and specific GST amounts (CGST, SGST, Total GST Amount) are unclear or missing."
+  }
+}

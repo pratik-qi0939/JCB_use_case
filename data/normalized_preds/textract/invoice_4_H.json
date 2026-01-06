@@ -1,0 +1,37 @@
+{
+  "seller": {
+    "name": "Elegant Kar Accessories Pvt. Ltd.",
+    "address": "B-38, Lajpat Nagar-2, New Delhi - 24.",
+    "tin_no": "07820208862"
+  },
+  "buyer": {
+    "name": "Mr. Aditya Rajin",
+    "address": "A 104, Gateway appartments."
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "Car spr. (Component) kit Orfinity) Model# 6010 CS.",
+      "quantity": "1pair",
+      "unit": null,
+      "rate": "95001-",
+      "amount": "9500s-"
+    },
+    {
+      "sr_no": null,
+      "description": "Waring kit (JBL) (Car) 1set for Amp & woofer.",
+      "quantity": "1set",
+      "unit": null,
+      "rate": "35001-",
+      "amount": "3500/-"
+    }
+  ],
+  "amount": {
+    "total_before_gst": 13000,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "total_amount_after_gst": 13000,
+    "amount_in_words": null
+  }
+}

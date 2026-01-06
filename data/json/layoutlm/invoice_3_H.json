@@ -1,0 +1,26 @@
+{
+  "extracted_data": {
+    "invoice_number": null,
+    "invoice_date": null,
+    "vendor_name": "RUBBERS",
+    "vendor_address": null,
+    "vendor_gstin": null,
+    "customer_name": null,
+    "customer_address": null,
+    "items": [],
+    "subtotal": null,
+    "tax_amount": null,
+    "total_amount": null,
+    "currency": null,
+    "additional_extracted_info": {
+      "vendor_registration_status_message": "UNREGISTERED.",
+      "possible_reference_number": "0002900",
+      "possible_term": "Gredit"
+    }
+  },
+  "summary_report": {
+    "summary": "The provided text contains very fragmented and unclear information, making it difficult to extract standard invoice details. Key elements identified include 'RUBBERS' (possibly a vendor name), 'UNREGISTERED.' (indicating registration status), '0002900' (a possible reference or document ID), and 'Gredit' (possibly 'Credit'). No invoice number, date, specific line items, or monetary amounts are present.",
+    "approval_status": "Rejected",
+    "reasoning": "The invoice is rejected because there is no clear indication of GST applied on the invoice, nor is a valid GSTIN number present; the text explicitly states 'UNREGISTERED.'. Without these crucial tax details and comprehensive invoice information, the document cannot be approved as a valid invoice."
+  }
+}

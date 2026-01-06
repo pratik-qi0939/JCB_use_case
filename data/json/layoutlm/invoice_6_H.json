@@ -1,0 +1,25 @@
+{
+  "invoice_type": "CASH BILL",
+  "supplier_details": {
+    "name": "METRO HARDWARE & PLYWOOD",
+    "address": "No. 781, 782, Mettupalayam Road, Near X Cut Signal, Coimbatore - 641 002.",
+    "gstin": "—4"
+  },
+  "invoice_details": {
+    "invoice_number": "493",
+    "invoice_date": "10-®"
+  },
+  "line_items": [
+    {
+      "description": "HWSO Plern",
+      "amount": "975"
+    }
+  ],
+  "tax_details": null,
+  "total_amount": null,
+  "summary": {
+    "invoice_summary": "This is a CASH BILL from METRO HARDWARE & PLYWOOD, located at No. 781, 782, Mettupalayam Road, Near X Cut Signal, Coimbatore - 641 002. The invoice number is 493 and the date is 10-®. A GSTIN is present as '—4'. One item 'HWSO Plern' is listed with an amount of 975. Tax labels such as 'adascst@ %' and 'aAdacestaG [-|_|' are visible, but no specific tax amounts or a total amount are recorded.",
+    "approval_status": "Rejected",
+    "reasoning": "The invoice is rejected because the GSTIN '—4' is incomplete/corrupted, and no specific GST amounts are applied or calculated despite tax labels being present. The total amount for the invoice is also missing."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "seller": {
+    "name": "METRO HARDWARE & PLYWOOD",
+    "address": "No. 781, 782, Mettupalayam Road, Near X Cut Signal, Coimbatore - 641 002.",
+    "gstin": "—4"
+  },
+  "buyer": {
+    "name": null
+  },
+  "items": null,
+  "amount": {
+    "total_before_gst": null,
+    "sgst": "aAdacestaG [-_|",
+    "cgst": "adascst@ %",
+    "igst": null,
+    "total_amount_after_gst": "-",
+    "amount_in_words": null
+  }
+}

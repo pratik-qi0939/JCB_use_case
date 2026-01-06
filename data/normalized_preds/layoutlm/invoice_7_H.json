@@ -1,0 +1,38 @@
+{
+  "seller": {
+    "name": "OM COMPUTERS",
+    "address": null,
+    "phone_numbers": null
+  },
+  "buyer": {
+    "name": null
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "Assembled",
+      "quantity": 1,
+      "rate": null,
+      "amount": null
+    },
+    {
+      "sr_no": null,
+      "description": "Net protected fativins 1",
+      "quantity": 2,
+      "rate": null,
+      "amount": null
+    },
+    {
+      "sr_no": null,
+      "description": "Tony Refill",
+      "quantity": null,
+      "rate": null,
+      "amount": null
+    }
+  ],
+  "amount": {
+    "total_before_gst": null,
+    "total_amount_after_gst": null,
+    "amount_in_words": null
+  }
+}

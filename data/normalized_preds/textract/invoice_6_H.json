@@ -1,0 +1,44 @@
+{
+  "seller": {
+    "name": "METRO HARDWARE & PLYWOOD",
+    "address": "No. 781, 782, Mettupalayam Road, Near X Cut Signal, Coimbatore - 641 002",
+    "gstin": "33DGTPM5842J1ZT"
+  },
+  "buyer": {
+    "name": "G. Umarani"
+  },
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "19x20x4 cut",
+      "hsn_code": null,
+      "quantity": "IPCS",
+      "rate": 1150,
+      "amount": 1150
+    },
+    {
+      "sr_no": 2,
+      "description": "Plain\n19x20x6",
+      "hsn_code": null,
+      "quantity": 2128,
+      "rate": 975,
+      "amount": 1950
+    },
+    {
+      "sr_no": 3,
+      "description": "plain\n19XWX8",
+      "hsn_code": null,
+      "quantity": "3PLS",
+      "rate": 1050,
+      "amount": 3150
+    }
+  ],
+  "amount": {
+    "total_before_gst": 6250,
+    "sgst": 375,
+    "cgst": 375,
+    "igst": null,
+    "total_amount_after_gst": 7000,
+    "amount_in_words": null
+  }
+}

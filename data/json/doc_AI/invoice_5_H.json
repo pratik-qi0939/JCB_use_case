@@ -1,0 +1,28 @@
+{
+  "invoice_details": {
+    "seller_name": "Perfect Fire Protection Services",
+    "seller_address": "Regd. 2, Manns Appt., Nirmal Colony, Nashik 422013",
+    "seller_gstin": "Q",
+    "invoice_date": null,
+    "delivery_challan_no": null,
+    "items": [],
+    "tax_details": {
+      "cgst_rate": "9%",
+      "sgst_rate": "9%",
+      "cgst_amount": null,
+      "sgst_amount": null,
+      "total_tax_amount": null
+    },
+    "grand_total": null
+  },
+  "bank_details": {
+    "bank_name": "Bank of Baroda",
+    "account_number": "41360200000268",
+    "ifsc_code": "BARBOPIMPAL",
+    "branch": "Bahula"
+  },
+  "summary": {
+    "invoice_status": "Rejected",
+    "reasoning": "The invoice is rejected because the GSTIN 'Q' is invalid, and the tax amounts (CGST, SGST) are mentioned with rates but their actual values are missing. The grand total is also missing."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "invoice": {
+    "summary": {
+      "address": {
+        "street": "Chinchwar",
+        "ap": "Dhule",
+        "city": "Dhule",
+        "confidence": 78.35
+      },
+      "name": {
+        "receiver": "of Receiver (Billed To)",
+        "vendor": "FOR PERFECT FIRE PROTECTION SERVICES",
+        "confidence": 82.58
+      },
+      "invoice_receipt_date": "12/10/2025",
+      "invoice_receipt_id": "Invoice Proforma",
+      "tax_payer_id": "27AGVPK4057E1Z3",
+      "vendor_gst_number": "27AGVPK4057E1Z3",
+      "po_number": null,
+      "receiver_address": {
+        "street": "Chinchwar",
+        "ap": "Dhule",
+        "city": "Dhule",
+        "confidence": 51.27
+      },
+      "receiver_name": {
+        "receiver": "of Receiver (Billed To)",
+        "vendor": "FOR PERFECT FIRE PROTECTION SERVICES",
+        "confidence": 80.94
+      },
+      "subtotal": 24450200,
+      "tax": [
+        {
+          "amount": 2200,
+          "rate": 50
+        },
+        {
+          "amount": 2200250,
+          "rate": null
+        },
+        {
+          "amount": 4401.0,
+          "rate": null
+        },
+        {
+          "amount": null,
+          "rate": null
+        }
+      ],
+      "total": 28851.0,
+      "vendor_address": {
+        "street": "Nirmal Colony, Holy Mother English Medium School, Behind Ashar Grape City, Kale Nagar",
+        "city": null,
+        "confidence": 80.19
+      },
+      "vendor_name": {
+        "vendor": "FOR PERFECT FIRE PROTECTION SERVICES",
+        "confidence": 82.58
+      },
+      "vendor_phone": [
+        "9822772306",
+        "9850791182,7774015115"
+      ],
+      "other": [
+        "Awdhan, Dhule.",
+        "pfps_rdk@hotmail.com",
+        "Details of Receiver (Billed To) Ud. Explochem Solar M/s. Chinchwar A/P Address Dhule"
+      ]
+    },
+    "line_items": [
+      {
+        "item": "SCBA refilling. (300 bass)",
+        "product_code": "998399",
+        "quantity": "OZNOS",
+        "unit_price": "2100/-",
+        "price": "4200=00",
+        "expense_row": "998399 OZNOS 2100/- 4200=00 3> SCBA refilling. 998399 (300 bass)"
+      }
+    ]
+  }
+}

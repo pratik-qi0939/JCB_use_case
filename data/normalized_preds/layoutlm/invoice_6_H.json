@@ -1,0 +1,28 @@
+{
+  "seller": {
+    "name": "METRO HARDWARE & PLYWOOD",
+    "address": "No. 781, 782, Mettupalayam Road, Near X Cut Signal, Coimbatore - 641 002.",
+    "gstin": "—4"
+  },
+  "buyer": {
+    "name": null
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "HWSO Plern",
+      "hsn_code": null,
+      "quantity": null,
+      "rate": null,
+      "amount": "975"
+    }
+  ],
+  "amount": {
+    "total_before_gst": null,
+    "sgst": null,
+    "cgst": null,
+    "igst": null,
+    "total_amount_after_gst": null,
+    "amount_in_words": null
+  }
+}

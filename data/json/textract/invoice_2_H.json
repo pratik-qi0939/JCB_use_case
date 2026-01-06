@@ -1,0 +1,51 @@
+{
+  "invoice_receipt_date": null,
+  "invoice_receipt_id": "002",
+  "tax_payer_id": null,
+  "vendor_gst_number": null,
+  "receiver_gst_number": null,
+  "receiver_address": {
+    "street": "1.1.T. GAVHATI",
+    "city": null,
+    "state": null,
+    "zip_code": null,
+    "name": "PRASHANT THAPLIYAL",
+    "address_block": "DIBANG HOSTEL"
+  },
+  "receiver_name": "PRASHANT THAPLIYAL",
+  "total": 43800,
+  "vendor_address": {
+    "street": "ATTA ARICEMILL",
+    "city": "DIMAPUR",
+    "state": "NAGALAND",
+    "zip_code": "797112",
+    "name": "SARAWGI TRADING CO.",
+    "address_block": "Disnapour Gover Rogah Contractor & Supplier"
+  },
+  "vendor_name": "SARAWGI TRADING CO.",
+  "line_items": [
+    {
+      "product_code": "3010",
+      "quantity": "20",
+      "unit_price": 218,
+      "price": 43800,
+      "description": "Rupers Fung parts Eight Hundred only) to m sint A D.C. KIPHIRE Contact CHENI OVNE E.A.C. KIPHINE 8787478590"
+    }
+  ],
+  "gstin": "228373(0)",
+  "bill_of_supply": "BILL OF SUPPLY",
+  "invoice_no": "002",
+  "date": null,
+  "customer_name": "PRASHANT THAPLIYAL",
+  "customer_address": "DIBANG HOSTEL 1.1.T. GAVHATI",
+  "state_code": "S",
+  "hsn": "3010",
+  "description_of_goods": "Rupers Fung parts Eight Hundred only) to m sint A D.C. KIPHIRE Contact CHENI OVNE E.A.C. KIPHINE 8787478590",
+  "code": "3010",
+  "qnty": "20",
+  "unit": "SM",
+  "rate": 218,
+  "amount": 43800,
+  "no": "I Rin Rom 3010 20 of 218 43800 SM Rupers Fung parts Eight Hundred only) to m sint A D.C. KIPHIRE Contact CHENI OVNE E.A.C. KIPHINE 8787478590",
+  "final_overall_confidence_score": 83.93
+}

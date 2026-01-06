@@ -1,0 +1,58 @@
+{
+  "seller": {
+    "name": "BHARAT ASSOCIATES",
+    "address": "Shop No. 30A, Ground Floor, Central Market Extn., Rampuri, Ghaziabad (UP) 201011",
+    "gstin": "09GBVPS8212J1ZP",
+    "phone_numbers": [
+      "9871872582",
+      "9873018181"
+    ]
+  },
+
+  "buyer": {
+    "name": "Edrefter legal solution Pvt. Ltd.",
+    "address": "4th floor, office no. 0603, corporate park, Tota Ram Sec-142, Noida G.B. (U.P)",
+    "state": "U.P.",
+    "gstin": "09AAFCE3342MIZF"
+  },
+
+  "items": [
+    {
+      "sr_no": 1,
+      "description": "STAMP PAPER VALUE",
+      "hsn_code": null,
+      "rate": 21980,
+      "taxable_value": null
+    },
+    {
+      "sr_no": 2,
+      "description": "NOTERY CHARGES",
+      "hsn_code": null,
+      "rate": 2180,
+      "taxable_value": null
+    },
+    {
+      "sr_no": 3,
+      "description": "SERVICE CHARGES",
+      "hsn_code": "9982",
+      "rate": 6935,
+      "taxable_value": 6935
+    }
+  ],
+
+  "amount": {
+    "total_before_gst": 6975,
+    "cgst": 625,
+    "sgst": 625,
+    "igst": null,
+    "total_amount_after_gst": 32345,
+    "amount_in_words": "Thirty two thousand three hundred forty five only"
+  },
+
+  "bank_details": {
+    "bank_name": "PUNJAB & SIND BANK",
+    "account_no": "0906110000527",
+    "branch": "CHANDER NAGAR, GZB",
+    "ifsc_code": "PSIB0000906"
+  }
+}

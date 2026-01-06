@@ -1,0 +1,50 @@
+{
+  "seller": {
+    "name": "Tallywebsolutions",
+    "address": "Ahmedabad, Gujarat 380001",
+    "phone_numbers": [
+      "9825233074"
+    ],
+    "email": "tallywebsolutions@gmail.com",
+    "gstin": "27AAFCP0535R012",
+    "pan": "CJVPD4665E"
+  },
+  "buyer": {
+    "name": "Tallywebsolutions",
+    "address": null,
+    "gstin": "29AWGPV7107B1Z1",
+    "state": "Karnataka",
+    "state_code": "29"
+  },
+  "items": [
+    {
+      "sr_no": null,
+      "description": "Fees for Tax Audit for the Year ended on 31.12.2024",
+      "hsn_code": "971201",
+      "gst_percent": "18%",
+      "amount": 15000.0
+    },
+    {
+      "sr_no": null,
+      "description": "GST Returned Fees for the Year Ended on 31.12.2024",
+      "hsn_code": "971201",
+      "gst_percent": "18%",
+      "amount": 10000.0
+    }
+  ],
+  "amount": {
+    "total_amount_after_gst": 29500.0,
+    "amount_in_words": null
+  },
+  "bank_details": {
+    "bank_name": "HDFC BANK",
+    "ifsc_code": "HDFC0000048",
+    "account_no": "50200052958609",
+    "account_name": "TALLYWEBSOLUTIONS",
+    "account_type": "CURRENT A/C"
+  },
+  "invoice_details": {
+    "bill_no": "TWS/1054-22",
+    "invoice_date": "23-12-2024"
+  }
+}
