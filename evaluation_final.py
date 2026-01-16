@@ -6,10 +6,7 @@ from typing import Dict, Set
 GT_DIR = r"D:\JCB_use_case\data\ground_truth"
 NORMALIZED_PRED_DIR = r"D:\JCB_use_case\data\normalized_preds\textract"
 
-
-# ======================================================
-# SCHEMA (KEY-ONLY) METRICS
-# ======================================================
+# compare the ground truth and normalized predicted JSON schemas
 def flatten_dict(d: Dict, parent: str = "") -> Set[str]:
     keys = set()
     for k, v in d.items():
@@ -127,8 +124,6 @@ def process_folders(gt_dir: str, normalized_dir: str):
 
     total_schema_loss = 0.0
     total_value_loss = 0.0
-
-    print("\n--- EVALUATION (NO LLM) ---")
 
     for name in common:
         gt = json.load(open(gt_files[name], encoding="utf-8"))

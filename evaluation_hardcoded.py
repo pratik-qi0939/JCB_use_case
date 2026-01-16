@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import Dict, Set
 import re
-
+# evaluation with key aliases for normalization
 KEY_ALIASES = {
     # Seller
     "seller_details.name": "seller.name",

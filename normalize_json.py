@@ -17,6 +17,8 @@ MODEL_NAME = "gemini-2.5-flash"
 client = genai.Client(api_key=os.environ.get("GOOGLE_API_KEY"))
 
 
+# normalized the predicted JSON to match the ground truth schema using Gemini
+
 SYSTEM_PROMPT = """
 You are a STRICT schema normalization engine.
 

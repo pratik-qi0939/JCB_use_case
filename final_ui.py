@@ -7,7 +7,7 @@ from typing import Tuple, Dict, List
 
 from google import genai
 
-from parser import (
+from parser_final import (
     initialize_layoutlm,
     extract_text,
     extract_json_from_text
